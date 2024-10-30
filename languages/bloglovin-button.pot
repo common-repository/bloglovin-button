@@ -1,0 +1,60 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bloglovin Button\n"
+"POT-Creation-Date: 2016-01-31 20:19+0000\n"
+"PO-Revision-Date: 2015-06-05 12:45-0000\n"
+"Last-Translator: \n"
+"Language-Team: pipdig <hello@pipdig.co>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../.git\n"
+"X-Poedit-SearchPathExcluded-1: ../img\n"
+
+#: ../bloglovin-button.php:53
+msgid "Display the official Bloglovin' button."
+msgstr ""
+
+#: ../bloglovin-button.php:54
+msgid "Bloglovin' Button"
+msgstr ""
+
+#: ../bloglovin-button.php:97
+msgid ""
+"Setup not complete. Please add your Bloglovin' URL to the Bloglovin' Button "
+"in the dashboard."
+msgstr ""
+
+#: ../bloglovin-button.php:125
+msgid "Widget Title:"
+msgstr ""
+
+#: ../bloglovin-button.php:130
+msgid "Bloglovin' URL:"
+msgstr ""
+
+#: ../bloglovin-button.php:134
+msgid "You should enter your full Bloglovin' URL. For example:"
+msgstr ""
+
+#: ../bloglovin-button.php:137
+msgid "Button style:"
+msgstr ""
+
+#: ../bloglovin-button.php:149
+msgid ""
+"You can also add your Bloglovin' button to any post/page by using the "
+"shortcode [bloglovin_button]"
+msgstr ""
+
+#: ../bloglovin-button.php:191 ../bloglovin-button.php:194
+msgid "Follow on Bloglovin"
+msgstr ""
